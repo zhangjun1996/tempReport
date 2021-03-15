@@ -27,13 +27,15 @@ def readData():
     userGroup = []  # 字典数组
     if os.getenv("USER_NAME") and os.getenv("USER_PASS"):
         print("User info found in env")
-        username = {"username": os.getenv("USER_NAME")}
-        password = {"username": os.getenv("USER_PASS")}
+        username = os.getenv("USER_NAME")
+        password = os.getenv("USER_PASS")
         user = {"username": username, "password": password}
         userGroup.append(user)
     else:
         print("User info not found in env")
-        return None
+        user = {"username": "18344672027", "password": "asdfghjkl00"}
+        userGroup.append(user)
+        # return None
     return userGroup
 
 
