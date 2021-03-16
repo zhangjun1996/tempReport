@@ -5,7 +5,7 @@
 >
 
 ## 使用
->本项目使用Github Action作为你的服务器在线动定时执行,安全且方便。
+>本项目使用Github Action作为你的服务器在线定时执行,安全且方便。
 >
 * fork该仓库到你的项目，下面都是设置你的项目
 * 进入: Settings-> Secrets-> 添加USER_NAME与USER_PASS两个key, 对应value为易班info的用户名与密码 // **Important!**
