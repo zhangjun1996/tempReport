@@ -31,7 +31,7 @@
 ![效果图1](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/e.png) 
 ![效果图2](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/f.png) 
 
-## 💝感谢
+## 感谢💝
 [Universoar](https://github.com/Universoar/gxnu-yzdx-autoreport)   
 [Naihai](https://github.com/naihaishy/TsinghuaDailyReport)  
 
