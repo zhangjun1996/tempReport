@@ -4,7 +4,7 @@
 > 作者不承担任何法律责任！The author assumes no legal liability！  
 >
 
-## 使用
+## ✨使用
 >本项目使用Github Action作为你的服务器在线定时执行,安全且方便。
 >
 * fork该仓库到你的项目，下面都是设置你的项目
@@ -27,11 +27,11 @@
 > 
 > 4.运行日志去 Action下面查看
 
-## 效果图
+## 👀效果图
 ![效果图1](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/e.png) 
 ![效果图2](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/f.png) 
 
-## 感谢💝
+## 💝感谢
 [Universoar](https://github.com/Universoar/gxnu-yzdx-autoreport)   
 [Naihai](https://github.com/naihaishy/TsinghuaDailyReport)  
 
