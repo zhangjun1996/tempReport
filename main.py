@@ -24,7 +24,7 @@ def userLogin(userGroup):
 
 
 def readData():
-    userGroup = []  # 字典数组
+    userGroup = []  # 用户数组
     if os.getenv("USER_NAME") and os.getenv("USER_PASS"):
         print("User info found in env")
         username = os.getenv("USER_NAME")
@@ -33,7 +33,8 @@ def readData():
         userGroup.append(user)
     else:
         print("User info not found in env")
-        user = {"username": "18344672027", "password": "asdfghjkl00"}
+        # 账号username 密码password
+        user = {"username": "", "password": ""}
         userGroup.append(user)
         # return None
     return userGroup
