@@ -5,7 +5,7 @@ import reportTem
 
 
 def userLogin(userGroup):
-    tokenGroup = []  # 字典数组
+    tokenGroup = []  # user info
     try:
         for user in userGroup:
             userAccount = account.account(user["username"], user["password"])
@@ -26,13 +26,13 @@ def userLogin(userGroup):
 def readData():
     userGroup = []  # 用户数组
     if os.getenv("USER_NAME") and os.getenv("USER_PASS"):
-        print("User info found in env")
+        print("使用在线用户配置")
         username = os.getenv("USER_NAME")
         password = os.getenv("USER_PASS")
         user = {"username": username, "password": password}
         userGroup.append(user)
     else:
-        print("User info not found in env")
+        print("未发现在线用户配置")
         # 账号username 密码password
         user = {"username": "", "password": ""}
         userGroup.append(user)
