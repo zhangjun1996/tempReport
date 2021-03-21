@@ -26,13 +26,13 @@ def userLogin(userGroup):
 def readData():
     userGroup = []  # 用户数组
     if os.getenv("USER_NAME") and os.getenv("USER_PASS"):
-        print("使用在线用户配置")
+        print("使用用户secret配置")
         username = os.getenv("USER_NAME")
         password = os.getenv("USER_PASS")
         user = {"username": username, "password": password}
         userGroup.append(user)
     else:
-        print("未发现在线用户配置")
+        print("未发现用户secret配置")
         # 账号username 密码password
         user = {"username": "", "password": ""}
         userGroup.append(user)
