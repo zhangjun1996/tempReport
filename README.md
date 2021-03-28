@@ -4,15 +4,15 @@
 > 作者不承担任何法律责任！The author assumes no legal liability！  
 >
 体温自动上报，定时在线执行
-## ✨使用
+## ✨使用方法
 >本项目使用Github Action作为你的服务器在线定时执行,安全且方便。
 >
-* fork该仓库到你的项目，下面都是设置你的项目
-* 进入: Settings-> Secrets-> 添加USER_NAME与USER_PASS两个key, 对应value为易班info的用户名与密码 // **Important!**
+* 1.fork该仓库到你的项目，下面都是设置你的项目
+* 2.进入: Settings-> Secrets-> 添加USER_NAME与USER_PASS两个key, 对应value为易班info的用户名与密码 // **Important!**
 ![添加Secrets](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/c.png)
-* 进入: Actions 点击 Understand  // **Important!**
+* 3.进入: Actions 点击 Understand  // **Important!**
 ![Understand](https://github.com/naihaishy/TsinghuaDailyReport/blob/master/results/d.png)
-* 编辑: .github/workflows/deploy.yml 随便修改点什么,例如修改时间或者加个注释，然后commit // **Important!**
+* 4.编辑: .github/workflows/deploy.yml 随便修改点什么,例如修改时间或者加个注释，然后commit // **Important!**
 
 **OK !**
 
