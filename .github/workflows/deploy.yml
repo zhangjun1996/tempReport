@@ -3,7 +3,6 @@ name: Report
 on:
   push:
      branches: main
-  gollum:
   workflow_dispatch:
   # 每天北京时间 7,12点整 (utc+8) 自动运行
   schedule:
