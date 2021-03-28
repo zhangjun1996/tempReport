@@ -1,13 +1,3 @@
 
-.idea/vcs.xml
-*.iml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/inspectionProfiles/Project_Default.xml
-.idea/modules.xml
-.idea/workspace.xml
-__pycache__/account.cpython-38.pyc
-__pycache__/reportTem.cpython-38.pyc
-.idea/workspace.xml
-.idea/workspace.xml
-*.xml
-.idea/.name
+idea
+__pycache__
