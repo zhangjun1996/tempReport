@@ -38,5 +38,5 @@
 
 ## 💝感谢
 
-[Universoar](https://github.com/Universoar/gxnu-yzdx-autoreport)
+[Universoar](https://github.com/Universoar/gxnu-yzdx-autoreport)  
 [Naihai](https://github.com/naihaishy/TsinghuaDailyReport)
