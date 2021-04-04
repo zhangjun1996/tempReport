@@ -1,9 +1,8 @@
 # 🎃易知独秀-体温上报脚本
 
-> 使用者有责任和义务保证自己上传的打卡数据真实可靠。
-> 本项目仅供学习交流使用，严禁用于其他用途! For learning and communication only, other use is strictly prohibited！
-> 作者不承担任何法律责任！The author assumes no legal liability！
-
+> 使用者有责任和义务保证自己上传的打卡数据真实可靠。  
+> 本项目仅供学习交流使用，严禁用于其他用途! For learning and communication only, other use is strictly prohibited！  
+> 作者不承担任何法律责任！The author assumes no legal liability！  
 体温自动上报，定时在线执行
 
 ## ✨使用方法
