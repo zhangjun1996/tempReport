@@ -26,7 +26,7 @@ def userLogin(userGroup):
 def readData():
     userGroup = []  # 用户数组
     if os.getenv("USER_NAME") and os.getenv("USER_PASS"):
-        print("使用用户secret配置")
+        print("发现用户secret配置")
         username = os.getenv("USER_NAME")
         password = os.getenv("USER_PASS")
         user = {"username": username, "password": password}
