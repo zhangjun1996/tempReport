@@ -1,4 +1,3 @@
-![](https://img.shields.io/github/downloads/0xeaa67/tempReport/total)
 # 🎃易知独秀-体温上报脚本
 
 > 使用者有责任和义务保证自己上传的打卡数据真实可靠。  
@@ -42,3 +41,4 @@
 [Universoar](https://github.com/Universoar/gxnu-yzdx-autoreport)  
 [Naihai](https://github.com/naihaishy/TsinghuaDailyReport)
 
+![](https://img.shields.io/github/downloads/0xeaa67/tempReport/total)
